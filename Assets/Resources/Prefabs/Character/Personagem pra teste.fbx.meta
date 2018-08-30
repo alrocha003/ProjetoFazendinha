@@ -1,0 +1,491 @@
+fileFormatVersion: 2
+guid: 3988b1a2f981105448c497eb50f6a551
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: anelar_parte1.L
+    100002: anelar_parte1.L_end
+    100004: anelar_parte1.R
+    100006: anelar_parte1.R_end
+    100008: anelar_parte2.L
+    100010: anelar_parte2.R
+    100012: anelar_parte3.L
+    100014: anelar_parte3.R
+    100016: Armature
+    100018: braco_inferior.L
+    100020: braco_inferior.R
+    100022: braco_superior.L
+    100024: braco_superior.R
+    100026: cabeca
+    100028: cabeca_end
+    100030: controlador_perna.L
+    100032: controlador_perna.R
+    100034: Cube.022
+    100036: dedao_parte1.L
+    100038: dedao_parte1.L_end
+    100040: dedao_parte1.R
+    100042: dedao_parte1.R_end
+    100044: dedao_parte2.L
+    100046: dedao_parte2.R
+    100048: IK_perna.L
+    100050: IK_perna.L_end
+    100052: IK_perna.R
+    100054: IK_perna.R_end
+    100056: indicador_parte1.L
+    100058: indicador_parte1.L_end
+    100060: indicador_parte1.R
+    100062: indicador_parte1.R_end
+    100064: indicador_parte2.L
+    100066: indicador_parte2.R
+    100068: indicador_parte3.L
+    100070: indicador_parte3.R
+    100072: mao.L
+    100074: mao.R
+    100076: meio_parte1.L
+    100078: meio_parte1.L_end
+    100080: meio_parte1.R
+    100082: meio_parte1.R_end
+    100084: meio_parte2.L
+    100086: meio_parte2.R
+    100088: meio_parte3.L
+    100090: meio_parte3.R
+    100092: mindinho_parte1.L
+    100094: mindinho_parte1.L_end
+    100096: mindinho_parte1.R
+    100098: mindinho_parte1.R_end
+    100100: mindinho_parte2.L
+    100102: mindinho_parte2.R
+    100104: mindinho_parte3.L
+    100106: mindinho_parte3.R
+    100108: ombro.L
+    100110: ombro.R
+    100112: palma_pe.L
+    100114: palma_pe.L_end
+    100116: palma_pe.R
+    100118: palma_pe.R_end
+    100120: palma_pe_controlador.L
+    100122: palma_pe_controlador.L_end
+    100124: palma_pe_controlador.R
+    100126: palma_pe_controlador.R_end
+    100128: pe.L
+    100130: pe.R
+    100132: pe_roll.L
+    100134: pe_roll.R
+    100136: peito
+    100138: perna_inferior.L
+    100140: perna_inferior.L_end
+    100142: perna_inferior.R
+    100144: perna_inferior.R_end
+    100146: perna_Pole_Target.L
+    100148: perna_Pole_Target.L_end
+    100150: perna_Pole_Target.R
+    100152: perna_Pole_Target.R_end
+    100154: perna_superior.L
+    100156: perna_superior.R
+    100158: //RootNode
+    100160: pescoco
+    100162: quadril
+    100164: torso
+    400000: anelar_parte1.L
+    400002: anelar_parte1.L_end
+    400004: anelar_parte1.R
+    400006: anelar_parte1.R_end
+    400008: anelar_parte2.L
+    400010: anelar_parte2.R
+    400012: anelar_parte3.L
+    400014: anelar_parte3.R
+    400016: Armature
+    400018: braco_inferior.L
+    400020: braco_inferior.R
+    400022: braco_superior.L
+    400024: braco_superior.R
+    400026: cabeca
+    400028: cabeca_end
+    400030: controlador_perna.L
+    400032: controlador_perna.R
+    400034: Cube.022
+    400036: dedao_parte1.L
+    400038: dedao_parte1.L_end
+    400040: dedao_parte1.R
+    400042: dedao_parte1.R_end
+    400044: dedao_parte2.L
+    400046: dedao_parte2.R
+    400048: IK_perna.L
+    400050: IK_perna.L_end
+    400052: IK_perna.R
+    400054: IK_perna.R_end
+    400056: indicador_parte1.L
+    400058: indicador_parte1.L_end
+    400060: indicador_parte1.R
+    400062: indicador_parte1.R_end
+    400064: indicador_parte2.L
+    400066: indicador_parte2.R
+    400068: indicador_parte3.L
+    400070: indicador_parte3.R
+    400072: mao.L
+    400074: mao.R
+    400076: meio_parte1.L
+    400078: meio_parte1.L_end
+    400080: meio_parte1.R
+    400082: meio_parte1.R_end
+    400084: meio_parte2.L
+    400086: meio_parte2.R
+    400088: meio_parte3.L
+    400090: meio_parte3.R
+    400092: mindinho_parte1.L
+    400094: mindinho_parte1.L_end
+    400096: mindinho_parte1.R
+    400098: mindinho_parte1.R_end
+    400100: mindinho_parte2.L
+    400102: mindinho_parte2.R
+    400104: mindinho_parte3.L
+    400106: mindinho_parte3.R
+    400108: ombro.L
+    400110: ombro.R
+    400112: palma_pe.L
+    400114: palma_pe.L_end
+    400116: palma_pe.R
+    400118: palma_pe.R_end
+    400120: palma_pe_controlador.L
+    400122: palma_pe_controlador.L_end
+    400124: palma_pe_controlador.R
+    400126: palma_pe_controlador.R_end
+    400128: pe.L
+    400130: pe.R
+    400132: pe_roll.L
+    400134: pe_roll.R
+    400136: peito
+    400138: perna_inferior.L
+    400140: perna_inferior.L_end
+    400142: perna_inferior.R
+    400144: perna_inferior.R_end
+    400146: perna_Pole_Target.L
+    400148: perna_Pole_Target.L_end
+    400150: perna_Pole_Target.R
+    400152: perna_Pole_Target.R_end
+    400154: perna_superior.L
+    400156: perna_superior.R
+    400158: //RootNode
+    400160: pescoco
+    400162: quadril
+    400164: torso
+    2100000: Material
+    2100002: Material.008
+    2100004: Material.006
+    2100006: Material.009
+    4300000: Cube.022
+    7400000: Picareta Action.001
+    7400002: Armature|Idle 1
+    7400004: "Armature|Idle padr\xE3o"
+    7400006: Armature|Picareta em testes
+    7400008: Armature|Picareta Usavel
+    7400010: Armature|PoseLib
+    7400012: Armature|Untitled
+    7400014: Armature|Walk
+    9500000: //RootNode
+    13700000: Cube.022
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Picareta Action.001
+      takeName: Picareta Action.001
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Idle 1
+      takeName: Armature|Idle 1
+      firstFrame: 0
+      lastFrame: 352
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "Armature|Idle padr\xE3o"
+      takeName: "Armature|Idle padr\xE3o"
+      firstFrame: 0
+      lastFrame: 160
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Picareta em testes
+      takeName: Armature|Picareta em testes
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Picareta Usavel
+      takeName: Armature|Picareta Usavel
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|PoseLib
+      takeName: Armature|PoseLib
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Untitled
+      takeName: Armature|Untitled
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Walk
+      takeName: Armature|Walk
+      firstFrame: 0
+      lastFrame: 64
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
