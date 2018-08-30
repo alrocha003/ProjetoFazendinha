@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+/**Commit inicial para testes*/
 public class Acoes : MonoBehaviour
 {
     public List<Acao> acoes = new List<Acao>();
